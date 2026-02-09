@@ -4,7 +4,7 @@ proxies:
     server: 113.108.6.85
     port: 6379
     udp: true
-    uuid: 12df2392d7df41e3971e9ad081dafd58
+    uuid: 3348c75826774669b853ee3adf1b591b
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -19,7 +19,7 @@ proxies:
     server: 120.232.222.9
     port: 6379
     udp: true
-    uuid: 12df2392d7df41e3971e9ad081dafd58
+    uuid: 3348c75826774669b853ee3adf1b591b
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -34,7 +34,7 @@ proxies:
     server: 58.251.139.169
     port: 6379
     udp: true
-    uuid: 12df2392d7df41e3971e9ad081dafd58
+    uuid: 3348c75826774669b853ee3adf1b591b
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -49,7 +49,7 @@ proxies:
     server: 103.248.153.166
     port: 6379
     udp: true
-    uuid: 12df2392d7df41e3971e9ad081dafd58
+    uuid: 3348c75826774669b853ee3adf1b591b
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -64,7 +64,7 @@ proxies:
     server: 113.108.6.83
     port: 6379
     udp: true
-    uuid: 12df2392d7df41e3971e9ad081dafd58
+    uuid: 3348c75826774669b853ee3adf1b591b
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -79,7 +79,7 @@ proxies:
     server: 120.232.222.14
     port: 6379
     udp: true
-    uuid: 12df2392d7df41e3971e9ad081dafd58
+    uuid: 3348c75826774669b853ee3adf1b591b
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -94,7 +94,7 @@ proxies:
     server: 58.251.139.168
     port: 6379
     udp: true
-    uuid: 12df2392d7df41e3971e9ad081dafd58
+    uuid: 3348c75826774669b853ee3adf1b591b
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
