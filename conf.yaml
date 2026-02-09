@@ -1,0 +1,106 @@
+proxies:
+  - name: 🇭🇰 香港高速｜流媒体解锁 01
+    type: vless
+    server: 113.108.6.85
+    port: 6379
+    udp: true
+    uuid: 12df2392d7df41e3971e9ad081dafd58
+    tls: true
+    servername: peer.pan.baidu.com
+    flow: xtls-rprx-vision
+    network: tcp
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14
+      short-id: 96e03e0f184639ef
+  - name: 🇭🇰 香港高速｜流媒体解锁 02
+    type: vless
+    server: 120.232.222.9
+    port: 6379
+    udp: true
+    uuid: 12df2392d7df41e3971e9ad081dafd58
+    tls: true
+    servername: peer.pan.baidu.com
+    flow: xtls-rprx-vision
+    network: tcp
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14
+      short-id: 96e03e0f184639ef
+  - name: 🇭🇰 香港高速｜流媒体解锁 03
+    type: vless
+    server: 58.251.139.169
+    port: 6379
+    udp: true
+    uuid: 12df2392d7df41e3971e9ad081dafd58
+    tls: true
+    servername: peer.pan.baidu.com
+    flow: xtls-rprx-vision
+    network: tcp
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14
+      short-id: 96e03e0f184639ef
+  - name: 🇭🇰 香港高速｜流媒体解锁 04
+    type: vless
+    server: 103.248.153.166
+    port: 6379
+    udp: true
+    uuid: 12df2392d7df41e3971e9ad081dafd58
+    tls: true
+    servername: peer.pan.baidu.com
+    flow: xtls-rprx-vision
+    network: tcp
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14
+      short-id: 96e03e0f184639ef
+  - name: 🇭🇰 香港高速｜流媒体解锁 05
+    type: vless
+    server: 113.108.6.83
+    port: 6379
+    udp: true
+    uuid: 12df2392d7df41e3971e9ad081dafd58
+    tls: true
+    servername: peer.pan.baidu.com
+    flow: xtls-rprx-vision
+    network: tcp
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14
+      short-id: 96e03e0f184639ef
+  - name: 🇭🇰 香港高速｜流媒体解锁 06
+    type: vless
+    server: 120.232.222.14
+    port: 6379
+    udp: true
+    uuid: 12df2392d7df41e3971e9ad081dafd58
+    tls: true
+    servername: peer.pan.baidu.com
+    flow: xtls-rprx-vision
+    network: tcp
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14
+      short-id: 96e03e0f184639ef
+  - name: 🇭🇰 香港高速｜流媒体解锁 07
+    type: vless
+    server: 58.251.139.168
+    port: 6379
+    udp: true
+    uuid: 12df2392d7df41e3971e9ad081dafd58
+    tls: true
+    servername: peer.pan.baidu.com
+    flow: xtls-rprx-vision
+    network: tcp
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14
+      short-id: 96e03e0f184639ef
