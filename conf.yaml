@@ -4,7 +4,7 @@ proxies:
     server: 113.108.6.85
     port: 6379
     udp: true
-    uuid: 3348c75826774669b853ee3adf1b591b
+    uuid: 7e048eaef13f4d2daabceb25c3bc7840
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -19,7 +19,7 @@ proxies:
     server: 120.232.222.9
     port: 6379
     udp: true
-    uuid: 3348c75826774669b853ee3adf1b591b
+    uuid: 7e048eaef13f4d2daabceb25c3bc7840
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -34,22 +34,7 @@ proxies:
     server: 58.251.139.169
     port: 6379
     udp: true
-    uuid: 3348c75826774669b853ee3adf1b591b
-    tls: true
-    servername: peer.pan.baidu.com
-    flow: xtls-rprx-vision
-    network: tcp
-    client-fingerprint: chrome
-    skip-cert-verify: false
-    reality-opts:
-      public-key: QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14
-      short-id: 96e03e0f184639ef
-  - name: 🇭🇰 香港高速｜流媒体解锁 04
-    type: vless
-    server: 103.248.153.166
-    port: 6379
-    udp: true
-    uuid: 3348c75826774669b853ee3adf1b591b
+    uuid: 7e048eaef13f4d2daabceb25c3bc7840
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -64,22 +49,7 @@ proxies:
     server: 113.108.6.83
     port: 6379
     udp: true
-    uuid: 3348c75826774669b853ee3adf1b591b
-    tls: true
-    servername: peer.pan.baidu.com
-    flow: xtls-rprx-vision
-    network: tcp
-    client-fingerprint: chrome
-    skip-cert-verify: false
-    reality-opts:
-      public-key: QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14
-      short-id: 96e03e0f184639ef
-  - name: 🇭🇰 香港高速｜流媒体解锁 06
-    type: vless
-    server: 120.232.222.14
-    port: 6379
-    udp: true
-    uuid: 3348c75826774669b853ee3adf1b591b
+    uuid: 7e048eaef13f4d2daabceb25c3bc7840
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
@@ -94,7 +64,7 @@ proxies:
     server: 58.251.139.168
     port: 6379
     udp: true
-    uuid: 3348c75826774669b853ee3adf1b591b
+    uuid: 7e048eaef13f4d2daabceb25c3bc7840
     tls: true
     servername: peer.pan.baidu.com
     flow: xtls-rprx-vision
